@@ -9,11 +9,11 @@
             PowerUp</h1>
         <div class="container">
   <ul class="bot__links">
-    <li><a class="link" href="url">Accueil</a></li>
-    <li><a class="link" href="url">A-propos</a></li>
-    <li><a class="link" href="url">Contact</a></li>
-    <li><a class="link" href="url">liste-des-episodes</a></li>
-    <li><a class="link" href="url">Personnages</a></li>
+    <li><a class="link" href="http://localhost:3000">Accueil</a></li>
+    <li><a class="link" href="http://localhost:3000/page2">A-propos</a></li>
+    <li><a class="link" href="http://localhost:3000/page5">Contact</a></li>
+    <li><a class="link" href="http://localhost:3000/page4">liste-des-episodes</a></li>
+    <li><a class="link" href="http://localhost:3000/page2">Personnages</a></li>
   </ul>
   <img class="footer__img" src="/back.png" alt="Your image description">
 </div>
@@ -39,9 +39,7 @@
     
     
 }
-.bot__linkss {
-    
-}
+
 .footer__title {
     font-size: 15ch;
     color: orangered;
@@ -58,19 +56,19 @@
 .bot__links {
   list-style: none;
   padding: 0;
-  margin-right: 20px; /* Adds 20px of spacing between the columns */
+  margin-right: 20px; 
   padding-left: 5%;
   font-family: 'Sigmar', cursive;
 }
 
 .bot__links li {
-  margin-bottom: 10px; /* Adds 10px of spacing between each list item */
+  margin-bottom: 10px; 
 }
 
-.link {
+.links {
   display: block;
-  color: #333; /* Optional: set the link color */
-  text-decoration: none; /* Optional: remove underline from links */
+  color: #333; 
+  text-decoration: none; 
 }
 
 img {
@@ -80,6 +78,7 @@ img {
 }
 .footer__img {
     padding-left: 40%;
+    
     
 }
 .bot {
