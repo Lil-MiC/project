@@ -4,20 +4,20 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Sigmar&display=swap" rel="stylesheet">
 
-    <header class="bot">
+    <footer class="bot">
         <h1 class="footer__title">
             PowerUp</h1>
         <div class="container">
   <ul class="bot__links">
     <li><a class="link" href="http://localhost:3000">Accueil</a></li>
-    <li><a class="link" href="http://localhost:3000/page2">A-propos</a></li>
-    <li><a class="link" href="http://localhost:3000/page5">Contact</a></li>
-    <li><a class="link" href="http://localhost:3000/page4">liste-des-episodes</a></li>
-    <li><a class="link" href="http://localhost:3000/page2">Personnages</a></li>
+    <li><nuxt-link class="link" to="A-props">A-propos</nuxt-link></li>
+    <li><nuxt-link class="link" to="Contact">Contact</nuxt-link></li>
+    <li><nuxt-link class="link" to="liste-des-episodes">liste-des-episodes</nuxt-link></li>
+    <li><nuxt-link class="link" to="personnages">Personnages</nuxt-link></li>
   </ul>
   <img class="footer__img" src="/back.png" alt="Your image description">
 </div>
-    </header>
+    </footer>
 </template>
 
 

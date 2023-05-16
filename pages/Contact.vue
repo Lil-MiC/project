@@ -1,9 +1,9 @@
 <template>
     <div class="page__five__title">
     
-    <center>
+    
     nous contacter
-    </center>
+    
     </div>
     
     <div>
@@ -38,6 +38,7 @@
     .page__five__title {
         font-size: 25ch;
         font-family: 'Sigmar', cursive;
+        text-align: center;
     }
     
     .page__five__img {
@@ -74,6 +75,7 @@ input[type="Email"]{
         background-color: gold;
         padding: 10px 15px;
         border-radius: 3px;
+        height: 30ch;
     }   
     
     
