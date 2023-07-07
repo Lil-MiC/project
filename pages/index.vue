@@ -7,16 +7,17 @@
   <div class="main">
       
 
-      <img class="img__header" src="/bandw.jpg" alt="bandw">
+      <img class="img__header" src="/gemb.jpg" alt="bandw">
       
   </div>
   <div class="main__body">
-    <h1 class="sub__title__body">dernier episode:</h1>
-    <h2 class="sub__title__body__two">KATANA VS TRONCONNEUSE</h2> 
-    <h3 class="sub__title__body__two__three">Chapitrers  <br />  35-36-37--38-40</h3>
+    <h1 class="sub__title__body">STAGE:</h1>
+    <h2 class="sub__title__body__two">HENALLUX</h2> 
+    <h3 class="sub__title__body__two__three">first day  <br />  Je suis très content de mon Stage, le premier jour où j'ai rencontré tous les gens de STAGE, ils étaient très gentils, j'ai commencé à aider à la mise en réseau (configuration SWITCH) et j'ai réparé le réseau à Henallux, j'ai aussi fait une meilleure sécurité pour le réseau à tout l'appartement, puis j'ai commencé à faire des projets "robotiques", en utilisant le java script que j'ai appris au Cedeg. J'ai également réalisé un tutoriel et un PDF pour les professeurs afin d'informer les étudiants sur tous mes projets.</h3>
+    <h4 class="sub__title__body__two__four">first day  <br />  1</h4>
     </div>
     <div class="img__two">
-    <img class="sub__title__body__two__three__img" src="/Chainsaw1.jpg" alt="chain">
+    <img class="sub__title__body__two__three__img" src="/henallux.jpg" alt="chain">
     
 
     
@@ -32,7 +33,7 @@
     
     position: relative;
    text-align: center;
-   color: rgb(255, 0, 0);
+   color: rgb(0, 0, 0);
    max-width: 100%;
    height: auto;
    display: flex;
@@ -58,7 +59,7 @@
    height: auto;
   }
   .main__body {
-    background-color: gold ;
+    background-color: rgb(255, 255, 255) ;
     margin-left: 10ch;
     margin-right: 10ch;
   }
@@ -69,15 +70,15 @@
     text-align: center;
   }
   .sub__title__body__two__three {
-    padding-left: 45ch;
-    font-size: 5ch;
+    padding-left: 55%;
+    font-size: 2ch;
     font-family: 'Allerta Stencil', sans-serif;
   }
   .sub__title__body__two__three__img {
     width: 50%;
     height: auto;
     position: relative;
-    top:-150px;
+    top:-300px;
     
   }
 .img__two {

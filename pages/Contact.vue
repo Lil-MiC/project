@@ -7,7 +7,7 @@
     </div>
     
     <div>
-        <img class="page__five__img" src="/last.jpg" alt="chain">
+        <img class="page__five__img" src="" alt="">
         
     </div>
     
@@ -36,16 +36,18 @@
     
     <style lang="scss">
     .page__five__title {
-        font-size: 25ch;
-        font-family: 'Sigmar', cursive;
+        font-size: 5ch;
+        font-family: 'Inter', sans-serif;
+        font-family: 'DM Sans', sans-serif;
         text-align: center;
+        padding-bottom: 10%;
     }
     
     .page__five__img {
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
-        background-image: url("last.jpg");
+        background-image: url("");
         position: relative;
        text-align: center;
        color: rgb(255, 0, 0);
@@ -65,14 +67,14 @@
   resize: vertical;
 }
 input[type="Email"]{
-        background-color: gold;
+        background-color: rgb(254, 245, 198);
         padding: 10px 15px;
         border-radius: 3px;
         
     }
     
     input[type="Description"]{
-        background-color: gold;
+        background-color: rgb(255, 249, 215);
         padding: 10px 15px;
         border-radius: 3px;
         height: 30ch;

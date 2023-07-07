@@ -6,16 +6,17 @@
 
     <footer class="bot">
         <h1 class="footer__title">
-            PowerUp</h1>
+            CEDEG</h1>
         <div class="container">
   <ul class="bot__links">
     <li><a class="link" href="http://localhost:3000">Accueil</a></li>
-    <li><nuxt-link class="link" to="A-props">A-propos</nuxt-link></li>
+    <li><nuxt-link class="link" to="entreprise">entreprise</nuxt-link></li>
+    <li><nuxt-link class="link" to="formation">Formation</nuxt-link></li>
+    <li><nuxt-link class="link" to="personnages">Stage</nuxt-link></li>
+    <li><nuxt-link class="link" to="developpement professionnel">Developpement professionnel</nuxt-link></li>
     <li><nuxt-link class="link" to="Contact">Contact</nuxt-link></li>
-    <li><nuxt-link class="link" to="liste-des-episodes">liste-des-episodes</nuxt-link></li>
-    <li><nuxt-link class="link" to="personnages">Personnages</nuxt-link></li>
   </ul>
-  <img class="footer__img" src="/back.png" alt="Your image description">
+  <img class="footer__img" src="/cedeg.png" alt="Your image description">
 </div>
     </footer>
 </template>
@@ -26,10 +27,11 @@
 <style lang="scss">
 
 .bot__header {
-    background-color: gold;
+    background-color: rgb(255, 255, 255);
     list-style-type: none;
     padding-left: 5%;
-    font-family: 'Sigmar', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'DM Sans', sans-serif;
     
 }
 .bot__img {
@@ -42,15 +44,16 @@
 
 .footer__title {
     font-size: 15ch;
-    color: orangered;
-    background-color: gold;
-    font-family: 'Sigmar', cursive;
+    color: rgb(0, 0, 0);
+    background-color: rgb(174, 242, 255);
+    font-family: 'Inter', sans-serif;
+    font-family: 'DM Sans', sans-serif;
     padding-left: 5%;
 
 }
 .container {
   display: flex;
-  background-color: gold;
+  background-color: rgb(174, 242, 255);
 }
 
 .bot__links {
@@ -58,7 +61,8 @@
   padding: 0;
   margin-right: 20px; 
   padding-left: 5%;
-  font-family: 'Sigmar', cursive;
+  font-family: 'Inter', sans-serif;
+    font-family: 'DM Sans', sans-serif;
 }
 
 .bot__links li {
@@ -77,12 +81,15 @@ img {
   
 }
 .footer__img {
-    padding-left: 40%;
+    
+    border-radius: 500ch;
+    margin-left: 60%;
+    
     
     
 }
 .bot {
-    background-color: gold;
+    background-color: rgb(174, 242, 255);
 }
 
 
