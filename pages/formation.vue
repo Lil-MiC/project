@@ -7,15 +7,12 @@ Formation
 </div>
 
 <div>
-    <img class="page__four__img" src="" alt="chain">
+    <img class="page__four__img" src="" alt="">
     
 </div>
 <div class="page__four__sub__title">
-    doasijndoiasjdpokaoskjdaopdkopd jaspiodj pasoj dopas jdopasj opdj asop jdopas jopd jasopj dopjas podj opasj dpoasj podj
-    md paksm dkpmas pdm paksmd k;lsam ;kldm;slka md;kl mas; md;lma s;lmdoasjoidnausondj ansjkdn asjkndjndj sans-serifd aoshdouiasn jodnaso indion
-    dm oiasnd ioasn okdjnas odnoi asndjk asn odjn
-    ddsad sa dnsoa ndosan dokn aslknd klsan lkasn dionasio dnakls ndlmna sodnwuiabdhiasbghd  vg dvsagb dbnas bd asndjk
-    b dhsabdh bs ahdbh asbhbdsayudgiuwqohpdijqw pofkpowiej fujbshcbs bfwqhiodh quow hudbn habsk
+    we learned JS , HTML , CSS , and I personally got a lot of experience , also from my STAGE , I connect the Switch and configure it , I also made a lot of great projects with Arduino Kitronic , Micro:Bit ...
+overall it was a lot of new experience and our braind got upgraded for the next level :)
 </div>
 
 
